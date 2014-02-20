@@ -1,4 +1,4 @@
-#A high performance education system in hybrid cloud
+#Interactive Educational System with high performance in hybrid cloud 
 
 
 ##Abstract
@@ -29,3 +29,5 @@ Specifically, we propose an improved architecture which uses both the public and
 The result shows that high performance and rapid data sharing can be obtained while keeping the devices in hybrid public and private cloud under current situation. We present this architecture to further simplify similar web application development in hybrid cloud by using add-on components for other use cases such as interactive conferencing system or play games. It will also extend beyond web to native applications and reduces the barrier between web and non-web applications for more needs in our future research.
 
 不只在教育领域，在需要交互的领域，比如教育。。。
+
+Keywords: remote education; cloud education; hybrid cloud; web-based system; mobile education; SaaS;
