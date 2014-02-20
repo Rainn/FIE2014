@@ -9,7 +9,7 @@ In prior work, we proposed an adaptive web-based mobile education architecture t
 
 **目前面临的问题**
 
-With the development of SaaS business as well as the evolution of smart devices and incremental of user's expectation recently, this architecture is facing challenges like delay of data transmission and interaction collision that lead to sometimes the data can't be delivered to the right place instantly in hybrid cloud environment. We abstracted the transmission into three types: Star form massive courseware data, such as real-time video streams, flash based experimental content, gives plenty of pressure to the browsers. Mesh form interactive data, such as annotation, operating document, has many concurrence and complex data transmission routes in cloud.
+With the development of SaaS business as well as the evolution of smart devices and incremental of user's expectation recently, this architecture is facing challenges like delay of data transmission and interaction collision that lead to sometimes the data can't be delivered to the right place instantly in hybrid cloud environment. We abstracted the transmission into three types: Star form massive courseware data, such as real-time video streams, flash based experimental content, gives plenty of pressure to the browsers. Mesh form interactive data, such as annotation, operating document, has many concurrence and complex data transmission routes. Simple request/response form, such as login, curriculum management, provides general function in cloud.
 
 总结出来三种普遍的数据连接transaction in hybrid cloud: 
 1 一对多  大数据量 视频。。。
