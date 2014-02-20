@@ -1,7 +1,7 @@
 #Interactive Educational System with high performance in hybrid cloud 
 
 
-##Abstract
+##Abstract*(312 words)*
 
 **以前做了什么**
 
