@@ -1,4 +1,4 @@
-#Interactive Educational System with high performance in hybrid cloud 
+#Interactive Education System with High Synchronization Performance in Hybrid Cloud 
 
 
 ##Abstract (312 words)
@@ -9,7 +9,7 @@ In prior work, we proposed an adaptive web-based mobile education architecture t
 
 **目前面临的问题**
 
-With the development of SaaS business as well as the evolution of smart devices and incremental of user's expectation recently, this architecture is facing challenges like delay of data transmission and interaction collision that lead to sometimes the data can't be delivered to the right place instantly in hybrid cloud environment. We abstracted the hybrid network topography from real education circumstance to figure out that there are massive coursewares, such as real-time video stream, flash based experimental content, give too much pressure to the browsers in star type network and there are many concurrence transmission and complex paths in mesh type network.
+With the development of SaaS business as well as the evolution of smart devices and incremental of user's expectation recently, this architecture is facing challenges like delay of data transmission and interaction collision that lead to sometimes the data can't be delivered to the right place instantly in hybrid cloud environment. We abstracted the transmission into three types: Star form massive courseware data, such as real-time video streams, flash based experimental content, gives plenty of pressure to the browsers. Mesh form interactive data, such as annotation, operating document, has many concurrence and complex data transmission routes in cloud.
 
 总结出来三种普遍的数据连接transaction in hybrid cloud: 
 1 一对多  大数据量 视频。。。
@@ -22,7 +22,7 @@ This paper addresses the question of how to develop a module for monitoring poly
 
 **细化核心技术是什么**
 
-Specifically, we propose an improved architecture which uses both the public and private clouds characteristics. A “Node Monitoring System” is used to detect each node’s specification, bandwidth, network topography in order to  generate data buffering algorithm and transmission policy in the system. Also, Websocket based methodology is designed to accelerate the response speed of synchronous data in mobile education environment.
+Specifically, we propose an improved architecture which uses both the public and private clouds characteristics. A “Node Monitoring System” is used to detect each node’s specification, bandwidth, network topography in order to generate data buffering algorithm and transmission policy in the system. Also, Websocket based methodology is designed to accelerate the response speed of synchronous data in mobile education environment.
 
 **评测和结论**
 
