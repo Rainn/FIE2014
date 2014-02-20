@@ -1,0 +1,6 @@
+#A high performance education system in hybrid cloud
+
+
+##Abstract
+
+In prior work, we proposed an adaptive web-based mobile education architecture that complements the instantaneity of communication and interactivity between teachers and students. With the development of SaaS business as well as the evolution of smart devices recently, this architecture is facing challenges like delay of data transmission and interaction collision. This paper addresses the question of how to develop a module for monitoring polydirectional communications among hybrid network and find an effective way to synchronize information between browsers devices in hybrid education cloud. Specifically, we propose an improved architecture which uses both the public and private clouds. A “Node Monitoring System” is used to detect each node’s status, bandwidth, network topographic in order to  generate data buffering and transmission policy in the system. Also, and Websocket based methodology is designed to accelerate the synchronous data in mobile education environment. The result shows that high performance and rapid data sharing can be obtained while keeping the devices in hybrid public and private cloud.
